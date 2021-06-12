@@ -1,4 +1,4 @@
-## Oi, sou a Isabela :wave:
+## Oi, sou o Alê :wave:
 Sou desenvolvedor Front-end, apaixonado por deixar tudo bonito usando a programação. :computer:
  
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
