@@ -8,9 +8,7 @@ Sou desenvolvedor Front-end, apaixonado por deixar tudo bonito usando a programa
  <br/> :speech_balloon:  &nbsp; Sobre mim: Curto tecnologias, artes e amo conciliar os 2!
 <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-yukon/)](https://www.linkedin.com/in/alexandre-yukon/)
 
-
-
-
+<br/>
 <div  align="center"> 
   <a href="https://github.com/Ale557333">
   <img height="150em"   align="center" src="https://github-readme-stats.vercel.app/api?username=Ale557333&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
