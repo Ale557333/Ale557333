@@ -1,6 +1,6 @@
 
 ## Oi, sou o Alê :wave:
-Sou desenvolvedor Front-end, apaixonado por deixar tudo bonito usando a programação. :computer:
+Aficcionado em aprender programação. :computer:
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
  <br/> :blush: &nbsp; Posso te ajudar com HTML, CSS, Javascript, React.js
