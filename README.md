@@ -1,6 +1,6 @@
 
 ## Oi, sou o Alê :wave:
-Aficcionado em aprender programação. :computer:
+Em constante aprendizagem na tecnologia. :computer:
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
  <br/> :blush: &nbsp; Posso te ajudar com HTML, CSS, Javascript, React.js
