@@ -2,7 +2,7 @@
 ## Oi, sou o Alê :wave:
 Em constante aprendizagem na tecnologia. :computer:
 
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos em Front-end
+ <br/> :purple_heart: &nbsp; Buscando colaborar com projetos e inovação
  <br/> :blush: &nbsp; Posso te ajudar com HTML, CSS, Javascript, React.js
  <br/> :computer: &nbsp; Minha stack: HTML, CSS, Javascript, React.js
  <br/> :speech_balloon:  &nbsp; Sobre mim: Curto tecnologias, artes e amo conciliar os 2!
