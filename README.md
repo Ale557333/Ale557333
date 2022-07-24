@@ -1,6 +1,6 @@
 
-## Oi, sou o Alê :wave:
-Em constante aprendizagem na tecnologia. :computer:
+## Hi, I'm Alex :wave:
+Constantly learning with technology. :computer:
 
  <br/> :purple_heart: &nbsp; Buscando colaborar com projetos e inovação
  <br/> :blush: &nbsp; Posso te ajudar com HTML, CSS, Javascript, React.js
