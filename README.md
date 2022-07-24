@@ -2,11 +2,11 @@
 ## Hi, I'm Alex :wave:
 Constantly learning with technology. :computer:
 
- <br/> :purple_heart: &nbsp; Buscando colaborar com projetos e inovação
- <br/> :blush: &nbsp; Posso te ajudar com HTML, CSS, Javascript, React.js
- <br/> :computer: &nbsp; Minha stack: HTML, CSS, Javascript, React.js
- <br/> :speech_balloon:  &nbsp; Sobre mim: Curto tecnologias, artes e amo conciliar os 2!
-<br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-yukon/)](https://www.linkedin.com/in/alexandre-yukon/)
+ <br/> :purple_heart: &nbsp; Seeking to collaborate with projects and innovation.
+ <br/> :blush: &nbsp; I can help you with HTML, CSS, Javascript, React.js
+ <br/> :computer: &nbsp; My stack: HTML, CSS, Javascript, React.js
+ <br/> :speech_balloon:  &nbsp; About me: I love technology and art I enjoy mix the two!
+<br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-yukon/)](https://www.linkedin.com/in/alexandre-yukon/)
 
 <br/>
 <div  align="center"> 
