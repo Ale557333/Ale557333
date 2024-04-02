@@ -3,7 +3,6 @@
 Constantly learning with technology. :computer:
 
  <br/> :purple_heart: &nbsp; Seeking to collaborate with projects and innovation.
- <br/> :computer: &nbsp; My stack: HTML, CSS, Javascript, React.js
  <br/> :speech_balloon:  &nbsp; About me: I love technology and art I enjoy mix the two!
  <br/> :email: &nbsp; Contact me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexandre-yukon/)](https://www.linkedin.com/in/alexandre-yukon/)
 
