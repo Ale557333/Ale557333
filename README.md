@@ -1,6 +1,6 @@
 
 ## Hi, I'm Alex :wave:
-Constantly learning with technology. :computer:
+Constantly learning with technology 📲
 
  <br/> 🧩 &nbsp; Seeking to collaborate with projects and innovation.
  <br/> 💙  &nbsp; I love both people and machines!
